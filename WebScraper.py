@@ -1,4 +1,3 @@
-# working_scraper.py
 """
 E-Commerce Web Scraper with Verified Working Websites
 """
